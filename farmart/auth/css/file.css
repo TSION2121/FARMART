@@ -1,0 +1,12 @@
+.header-3 {
+  font-size:40;
+  color: blue;
+  font-style: bolder;
+}
+.header-3.file-nav a :hover {
+  background: var(--blue-black);
+  color: coral;
+}
+main{
+  text-align: center;
+}

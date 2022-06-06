@@ -1,0 +1,39 @@
+main{
+    font-size: 60;
+    color:pink;
+    font-style: oblique;
+}
+p{
+   color: beige;
+}
+.form-group{
+background-color: burlywood;
+
+}
+body{
+    background-color:green;
+    background-position: center;
+    background-image: url("img/cover-home.jpg");
+    
+}
+btn:hover{
+    background: var(--green);
+    color:#fff;
+
+  
+    font-weight: bolder;
+        border:5px solid var(--black);
+          
+}
+.btn {
+    margin-top: 1rem;
+    display: inline-block;
+    padding: 8px 22px;
+    border-radius: 2rem;
+    color: #fff;
+    cursor: pointer;
+    background: var(--blue-black);
+    font-size: 1.5rem;
+    font-weight: bolder;
+    transition: all 0.1s;
+}
