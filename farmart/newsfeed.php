@@ -57,8 +57,8 @@
             <a href="home.html">home</a>
             <a href="newsfeed.html"><span>newsfeed</span></a>
             <a href="index2.html">shop</a>
-            <a href="about.html">about</a>
-            <a href="index.html" >work with us</a>
+            <a href="about.php">about</a>
+            <a href="index.php" >work with us</a>
         </nav>
 
         <div class="icons">
@@ -267,7 +267,7 @@
             <a href="newsfeed.html"> <i class="fas fa-chevron-right"></i> newsfeed </a>
             <a href="index2.html"> <i class="fas fa-chevron-right"></i> shop </a>
             <a href="about.html"> <i class="fas fa-chevron-right"></i> about </a>
-            <a href="index.html"> <i class="fas fa-chevron-right"></i> work with us </a>
+            <a href="index.php"> <i class="fas fa-chevron-right"></i> work with us </a>
           
         </div>
 
